@@ -1,0 +1,53 @@
+li {
+    list-style-type: none;
+    margin: 25px 0;
+}
+
+.chat-text {
+    padding: 10px 15px;
+    background: #23A1DB;
+    color: white;
+    
+    border-radius: 7px 7px 7px 7px;
+    -moz-border-radius: 7px 7px 7px 7px;    
+    -webkit-border-radius: 7px 7px 7px 7px;
+    border: 0px solid #000000;
+}
+
+.text-author {
+    color: #555;
+    font-size: 1.5rem;
+    margin-right: 20px;
+}
+
+.input-area {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.input-area input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #888;
+}
+
+.brand {
+    margin-left: 40px; 
+    font-size: 2rem;
+}
+
+.color-1 {
+    background: #23A1DB;
+}
+
+.color-2 {
+    background: #28BF42;
+}
+
+.color-3 {
+    background: #822EBF;
+}
+
+.color-4 {
+    background: #BF6E30B;
+}

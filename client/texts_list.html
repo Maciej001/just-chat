@@ -1,0 +1,14 @@
+
+<template name="textsList">
+  <div class=”texts”>
+    <div class=”form-style”>
+      <div class=”container”>
+        <ul class=”list-group”>
+          {{#each texts}}
+            {{> textItem}}
+          {{/each}}
+        </ul>
+      </div>
+    </div>
+  </div>
+</template>
